@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "Wkm9yRzH5LrLvHx7qaNmWp/ilt/CvjIWgm+CzpsMyqQ=",
+  "Source": "ElectricGamesAPI",
+  "BasePath": "_content/ElectricGamesAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ElectricGamesAPI\\wwwroot",
+      "Source": "ElectricGamesAPI",
+      "ContentRoot": "C:\\Users\\thisi\\Desktop\\dotnet\\ElectricGamesAPI\\ElectricGamesAPI\\wwwroot\\",
+      "BasePath": "_content/ElectricGamesAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\thisi\\Desktop\\dotnet\\ElectricGamesAPI\\ElectricGamesAPI\\wwwroot\\Uploads\\Games\\Screenshot (2).png",
+      "SourceId": "ElectricGamesAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\thisi\\Desktop\\dotnet\\ElectricGamesAPI\\ElectricGamesAPI\\wwwroot\\",
+      "BasePath": "_content/ElectricGamesAPI",
+      "RelativePath": "Uploads/Games/Screenshot (2).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Games\\Screenshot (2).png"
+    },
+    {
+      "Identity": "C:\\Users\\thisi\\Desktop\\dotnet\\ElectricGamesAPI\\ElectricGamesAPI\\wwwroot\\Uploads\\Screenshot_20221125_123931.png",
+      "SourceId": "ElectricGamesAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\thisi\\Desktop\\dotnet\\ElectricGamesAPI\\ElectricGamesAPI\\wwwroot\\",
+      "BasePath": "_content/ElectricGamesAPI",
+      "RelativePath": "Uploads/Screenshot_20221125_123931.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Screenshot_20221125_123931.png"
+    }
+  ]
+}
